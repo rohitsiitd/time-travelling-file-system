@@ -94,5 +94,5 @@ This project is done by **2024CS10410**.
 11. **Caution with `UPDATE` and `INSERT`**:
     - Commands like `UPDATE <FILE>` without any content will be treated as passing an empty string, resulting in empty content in the file. Be cautious when using `UPDATE` or `INSERT`.
 
-## License:
-This project is open-source, developed for educational purposes, and is subject to usage under the MIT license.
+
+
